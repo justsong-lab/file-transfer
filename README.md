@@ -1,8 +1,8 @@
-# Muduo Template
+# File Transfer
 
 ## Get Started
 ```bash
-git clone --recursive git@github.com:songquanpeng/muduo-template.git
+git clone --recursive https://github.com/songquanpeng/file-transfer
 mkdir build
 cd build
 cmake ..
